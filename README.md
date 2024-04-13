@@ -58,13 +58,15 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0x778&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=0x778&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+    
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=0x778&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
+<br/>
 <hr/>
+<br/>
+<h2 align="center">⚡ Practice ⚡</h2>
 
+![Codewars](https://github.r2v.ch/codewars?user=Hussam%20Al-maswari&stroke=white&top_languages=true&theme=gradient_midnight_puple)
 <br/>
 <!---
 0x778/0x778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
